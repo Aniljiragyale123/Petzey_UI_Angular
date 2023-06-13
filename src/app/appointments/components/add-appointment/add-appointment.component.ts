@@ -148,7 +148,7 @@ export class AddAppointmentComponent implements OnInit {
   }
 
 
-
+// add is this 
   validateDate(date: string): boolean {
     // Validate the date(Must be within 10 days from the current date)
     var today = new Date();
